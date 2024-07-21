@@ -1,1 +1,2 @@
-# CodSoft-Journey
+# CODSOFT
+LANDING PAGE
